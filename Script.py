@@ -4,7 +4,7 @@ import hashlib
 from sentence_transformers import SentenceTransformer
 
 CARPETA_DISCURSOS = "DiscursosOriginales"
-ARCHIVO_SALIDA = "discursos-final.json"
+ARCHIVO_SALIDA = "discursos-final-202373580-9-202473508-1.json"
 
 model = SentenceTransformer("all-MiniLM-L6-v2")
 
