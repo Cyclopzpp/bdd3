@@ -5,7 +5,7 @@ La tarea esta pensada para usarse en Linux (cualquier distro) o con wsl (Windows
 
 Primero encargate de usar el docker para empezar la DB, para eso ocupa el siguiente comando:
 
-    docker-compose -f deploy-202373580-9-202473508-1.yml up -d
+    docker-compose -f deploy-202373580-9-202473507-1.yml up -d
 
 Usa tu bash de preferencia para esto.
 
@@ -31,6 +31,6 @@ Este se ubicara en:
 
 Para el uso del Notebook, ejecutalo con:
 
-    jupyter notebook pymongo-202373580-9-202473508-1.ipynb
+    jupyter notebook pymongo-202373580-9-202473507-1.ipynb
 
 Ejecuta los bloques de codigo en orden para que no existan problemas con dependencias, instalaciones, etc.
