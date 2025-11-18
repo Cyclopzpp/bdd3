@@ -1,5 +1,5 @@
-Elias Emmanuel Barea Peralta | 202373580-9
-Catalina Monserrat Isabel Díaz Cofré | 202473508-1
+Elias Emmanuel Barea Peralta | 202373580-9 | San Joaquin
+Catalina Monserrat Isabel Díaz Cofré | 202473508-1 | San Joaquin
 
 La tarea esta pensada para usarse en Linux (cualquier distro) o con wsl (Windows/Mac).
 
